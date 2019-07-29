@@ -12,4 +12,7 @@ than install library :
 #### Run Local Computer
 `go run main.go`
 
+#### Postman Collection
+this the link postman: https://www.getpostman.com/collections/1a63382f524060936032
+
 
